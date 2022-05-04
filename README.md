@@ -1,4 +1,4 @@
-## नमस्ते 🙏
+🙏
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veragaston/)](https://www.linkedin.com/in/veragaston/)
 [![](https://img.shields.io/badge/Gmail-vera.gastonn%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
