@@ -17,11 +17,14 @@ const Gaston = {
     code: ["Javascript", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
-       mobileApp: ["Android App"],
+       mobileApp: ["React Native"],
        backEnd: {
-            js: ["node", "express"],
+            js: ["node", "express", "Spring Boot"],
         },
-        databases: ["mongo", "MySql"]
+        frontEnd: {
+            js: ["React js"],
+        },
+        databases: ["mongo", "MySql", "Hibernate", "Mongoose"]
     },
     architecture: ["microservices", "MVC"],
     funFact: "There are two ways to write error-free programs; only the third one works"
