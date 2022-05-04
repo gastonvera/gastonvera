@@ -12,19 +12,18 @@
 
 
 ```javascript
-const Naveen = {
+const Gaston = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "music", "eddie vedder", "chris cornell"],
+    askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
        mobileApp: ["Android App"],
        backEnd: {
-            js: ["node", "express", "hapi"],
+            js: ["node", "express"],
         },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO"]
+        databases: ["mongo", "MySql"]
     },
-    architecture: ["microservices", "event-driven"],
+    architecture: ["microservices", "MVC"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
